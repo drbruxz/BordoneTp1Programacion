@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1554127049 source:c:\users\admin\desktop\geronimo\programacion\codeblocks\calculadoratp_bordone\funciones.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1554127367 source:c:\users\admin\desktop\geronimo\programacion\codeblocks\calculadoratp_bordone\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1554127231 c:\users\admin\desktop\geronimo\programacion\codeblocks\calculadoratp_bordone\funciones.h
+
+1554167616 source:e:\lab y programacion\calculadoratp_bordone\funciones.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1554173344 source:e:\lab y programacion\calculadoratp_bordone\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1554127680 e:\lab y programacion\calculadoratp_bordone\funciones.h
+
